@@ -6,3 +6,4 @@
 
 ![Release](https://img.shields.io/github/v/release/MinusAlgo4/sem?label=release)
 
+![Workflow Status](https://github.com/MinusAlgo4/sem/actions/workflows/main.yml/badge.svg)
