@@ -7,4 +7,4 @@
 ![Release](https://img.shields.io/github/v/release/MinusAlgo4/sem?label=release)
 
 # DevOps
-[![Develop Build Status](https://github.com/my-org/my-app/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/my-org/my-app/actions/workflows/main.yml)
+[![Develop Build Status](https://github.com/MinusAlgo4/sem/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/MinusAlgo4/sem/actions/workflows/main.yml)
