@@ -1,2 +1,1 @@
-checking ci work flow
-double checking ci work flow
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
