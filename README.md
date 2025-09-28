@@ -1,4 +1,4 @@
-# Your Project Title (e.g., SEM_Demo)
+# SEM_Demo
 
 ![Workflow Status](https://github.com/MinusAlgo4/sem/actions/workflows/main.yml/badge.svg)
 
